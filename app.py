@@ -6,6 +6,7 @@ import numpy as np
 import requests
 import os
 
+# link cloud storage model
 url = "https://storage.googleapis.com/express-storage-1/makara.h5"
 local_filename = "makara.h5"
 
